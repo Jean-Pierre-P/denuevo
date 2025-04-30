@@ -12,7 +12,7 @@ public class MascotasController {
     
     @GetMapping
     public String algo() {
-        return "ahora si";
+        return "ahora si pinchi putita";
     }
     
 }
